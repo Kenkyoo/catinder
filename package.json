@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.36",
+    "@thatapicompany/thecatapi": "^1.0.2",
+    "sweetalert2": "^11.12.4",
+    "tabbyjs": "^12.0.3"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
+}
