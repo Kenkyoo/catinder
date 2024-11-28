@@ -2,6 +2,7 @@ import { TheCatAPI } from "@thatapicompany/thecatapi";
 import { Fancybox } from "@fancyapps/ui";
 import Swal from 'sweetalert2'
 import "@fancyapps/ui/dist/fancybox/fancybox.css";
+import Tabby from 'tabbyjs';
 
 const tabs = new Tabby('[data-tabs]');
 
